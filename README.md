@@ -4,7 +4,8 @@ Welcome to my frontend onboarding repo! This is a WIP repo for learning
 TypeScript and React. Currently the material is presented as comments and
 code with help from a few extensions to improve the experience.
 
-I recommend installing all of the recommended extensions to get the full experience.
+I recommend installing all of the recommended extensions to get the full experience:
+![Recommended extensions](images/recommended-extensions.png)
 
 ## [TypeScript Overview](./src/typescript-overview.ts)
 
